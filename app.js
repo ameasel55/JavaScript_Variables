@@ -6,16 +6,16 @@ console.log(
 // Exercise 1
 
 const firstName = "Steve"
-let lastName = "Guttenberg"
-var age = 64;
+let lastName;
+let age;
 
 console.log (firstName)
 console.log (lastName)
 // Exercise 2
 
-string = firstName
-string = lastName
-Number = age
+
+lastName = 'Smith';
+age = 25;
 
 console.log (age)
 // Exercise 3
